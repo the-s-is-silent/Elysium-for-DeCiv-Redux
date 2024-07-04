@@ -6,6 +6,7 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Humanism",
+		"personality": "The Chancellor",
 
 		"startIntroPart1": "Elysium is a Democratic Republic.",
 		"startIntroPart2": "- Article 1, Constitution of Elysium",
@@ -27,7 +28,7 @@
 			"[+15]% Production when constructing [Military] units [in all non-occupied cities] <when at war>",
             "[Gold] cost of purchasing [Military] units [-15]% <when at war>",
 			"Cannot build [Enslaved] units",
-			"Comment [Cannot build Prison Camp, Work Camp, Listening Post, or Council buildings]"
+			"Comment [Cannot build Prison Camp, Work Camp, or Council buildings]"
 		],
 		"cities": [
 			"Elysium",
@@ -53,6 +54,7 @@
 			"Vibrance",
 			"Clemency"
 		],
+		"spyNames": ["Eliza", "Antonia", "Benjamin", "Olivia", "Alexis", "Astor", "Walter", "Irene", "Jefferson", "Carol"],
 		"civilopediaText": [
 			{
 				"text": "Elysium is a Democratic Republic."

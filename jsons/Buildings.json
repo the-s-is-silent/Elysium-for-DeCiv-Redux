@@ -8,7 +8,7 @@
 		"uniques": [
 			"[+1 Culture] from every specialist [in this city]",
 			"[2] free [Medic] units appear",
-			"Can only be built [in capital]",
+			"Can only be built <in [Capital] cities>",
 			"Gain a free [Food Store] [in this city]",
 			"Gain a free [Stele of Constitution] [in this city]"
 		],
@@ -37,7 +37,7 @@
 			"[-5]% Unhappiness from [Population] [in all cities connected to capital]",
 			"[+25]% Production towards any buildings that already exist in the Capital",
 			"Only available <if [Search for Survivors] is constructed>",
-			"Can only be built [in capital]",
+			"Can only be built <in [Capital] cities>",
 			"Destroyed when the city is captured"
 		]
 	},
@@ -51,7 +51,7 @@
 		"requiredTech": "Construction",
 		"uniques": [
 			"[+1 Happiness] per [8] population [in this city]",
-			"Can only be built [in all cities connected to capital]",
+			"Can only be built <in cities connected to the capital>",
 			"Destroyed when the city is captured"
 		],
 		"civilopediaText": [
@@ -96,13 +96,6 @@
 	{
 		"name": "Elysium cannot build Council",
 		"replaces": "Council",
-		"uniqueTo": "Elysium",
-		"requiredTech": "The Wheel",
-		"uniques": ["Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia"]
-	},
-	{
-		"name": "Elysium cannot build Listening Post",
-		"replaces": "Listening Post",
 		"uniqueTo": "Elysium",
 		"requiredTech": "The Wheel",
 		"uniques": ["Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia"]
