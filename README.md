@@ -3,7 +3,7 @@
 ## Mod Info
 
 - Mod Version: 1.1.0-beta03
-- Required Base Game Version: 4.19.2~
+- Required Base Game Version: 4.12.4~
 - Dependencies: [DeCiv Redux](https://github.com/SpacedOutChicken/DeCiv-Redux)
 
 ## Introduction
@@ -32,7 +32,7 @@ regardless of their harsh situation.
 - +15% Production when constructing Military units in all non-occupied cities when at war
 - Water cost of purchasing Military units -15% when at war
 - Cannot build Enslaved units
-- Cannot build Prison Camp, Work Camp, Listening Post, or Council buildings
+- Cannot build Prison Camp, Work Camp, or Council buildings
 
 ### Unique Buildings
 
